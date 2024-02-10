@@ -20,8 +20,12 @@ I am dedicated to pushing software development boundaries, eager to contribute m
 <img align="left" alt="#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg">
 <img align="left" alt="#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
 <!--<img align="left" alt="#" width="30px" style="padding-right:10px;" src=""> -->
+
 <br>
-<h4>Programming and Markup Languages 👨‍💻</h4>
+
+#
+
+#### Programming and Markup Languages 👨‍💻
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
