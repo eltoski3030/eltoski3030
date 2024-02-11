@@ -1,7 +1,7 @@
 ### 👾🚀👾 Welcome to my github 👾🚀👾
 `**Software Gakusha & Creative Jōzuna**`
 
-As an Software Developer, I specialize in JavaScript, Ruby, and Python, with proficiency in React, Node.js, Ruby on Rails, and SQL. With a background in creative direction and public relations, I transitioned to software development driven by innovation.
+As a Software Developer, I specialize in JavaScript, Ruby, and Python, with proficiency in React, Node.js, Ruby on Rails, and SQL. With a background in creative direction and public relations, I transitioned to software development driven by innovation.
 
 Since 2022, I've honed my skills while advising private contractors, enhancing teamwork efficiency, and driving strategic initiatives. Continuous learning keeps me updated on industry trends.
 
